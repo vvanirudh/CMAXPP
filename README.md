@@ -1,4 +1,4 @@
-# CMAX++ : Leveraging Experience for Planning and Execution using Inaccurate Models
+# CMAX++ : Leveraging Experience in Planning and Execution using Inaccurate Models
 
 ## Dependencies
 
