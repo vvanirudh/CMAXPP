@@ -1,4 +1,24 @@
 # CMAX++ : Leveraging Experience in Planning and Execution using Inaccurate Models
+## BibTeX Citation
+
+```
+@article{DBLP:journals/corr/abs-2009-09942,
+  author    = {Anirudh Vemula and
+               J. Andrew Bagnell and
+               Maxim Likhachev},
+  title     = {{CMAX++} : Leveraging Experience in Planning and Execution using Inaccurate
+               Models},
+  journal   = {CoRR},
+  volume    = {abs/2009.09942},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2009.09942},
+  archivePrefix = {arXiv},
+  eprint    = {2009.09942},
+  timestamp = {Wed, 23 Sep 2020 15:51:46 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2009-09942.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
 
 ## Dependencies
 
